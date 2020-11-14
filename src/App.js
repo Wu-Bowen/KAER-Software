@@ -16,7 +16,7 @@ function App() {
           <a className = "navbar-brand" href = "https://i6.cims.nyu.edu/~ebw289/home.html" target = "_blank">
             <img src = {logo} width="30" height="30" alt="KAER_Coporations"/>
           </a>
-          <Link to="/" className = "navbar-brand"> KAER-Software Todo APP</Link>
+          <Link to="/" className = "navbar-brand"> KAER Property Manager</Link>
           <div className = "collapse navbar-collapse">
             <ul className = "navbar-nav mr-auto">
               <li className = "navbar-item">
