@@ -1,0 +1,84 @@
+<svg id="polygon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <title>sketch</title>
+   <path d= "
+  M 420 490
+  H 490
+  v -480
+  h -480
+  v 480
+  h 50
+  L 200 380
+  v -260
+  l 45 -30
+  h 45
+  v 5
+  h -43
+  v 260
+  L 65 500
+  H 0
+  v -500
+  h 500
+  v 500
+  h -68
+  "
+  />
+
+
+  <path d= "
+  M 460 190
+  l -230 190
+  l 160 120 
+  h 30
+  l -160 -120
+  L 490 190"
+  />
+
+  <rect x="265" y="110" width="15" height="15" rx="2" ry="2" stroke="black" stroke-width=".5"/>
+  <rect x="265" y="140" width="15" height="15" rx="2" ry="2" stroke="black" stroke-width=".5"/>
+  <rect x="265" y="170" width="15" height="15" rx="2" ry="2" stroke="black" stroke-width=".5"/>
+  <rect x="265" y="200" width="15" height="15" rx="2" ry="2" stroke="black" stroke-width=".5"/>
+  <rect x="265" y="230" width="15" height="15" rx="2" ry="2" stroke="black" stroke-width=".5"/>
+  <rect x="265" y="260" width="15" height="15" rx="2" ry="2" stroke="black" stroke-width=".5"/>
+  <rect x="265" y="290" width="15" height="15" rx="2" ry="2" stroke="black" stroke-width=".5"/>
+
+
+
+
+
+  <circle cx=" 222" cy="450" r="30" fill= "white" stroke= "black" stroke-width ="6"/>
+  <line x1="222" y1="423" x2="222" y2="435" stroke="black" stroke-width="4"/>
+  <line x1="222" y1="477" x2="222" y2="465" stroke="black" stroke-width="4"/>
+  <line x1="249" y1="450" x2="237" y2="450" stroke="black" stroke-width="4"/>
+  <line x1="195" y1="450" x2="207" y2="450" stroke="black" stroke-width="4"/>
+  <path d = "
+    M 222 435
+    L 207 450
+    L 222 465
+    L 237 450
+    Z"
+    stroke = "black" stroke-width= "2"
+    />
+  <path d = "
+    M 70 500
+    l 145 -115
+    h 15
+    l 153 115
+    h -8
+    l -148 -110
+    h -10  
+
+    l -140 110
+    z"
+    />
+
+    <path d="
+      M 295 255
+      v 65
+      l 130 -107
+      h -8
+      l -117 97
+      v -55
+
+      z"
+      />
+</svg>
