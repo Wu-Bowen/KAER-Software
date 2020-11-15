@@ -25,8 +25,8 @@ mongoose.connection.on('connected', () => {
     console.log("MongoDB connection established successfully.");
 });
 
-propertyRoutes.route('/').get(function(req, res){
-    Property.find(function(err, properties) {
+propertyRoutes.route('/').get((req, res) =>{
+    Property.find((err, properties) =>{
         if(err){
             console.log(err);
         } else{
